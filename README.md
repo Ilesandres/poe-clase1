@@ -1,2 +1,2 @@
 # poe-clase1
-clase-poe
+clase1-poe
